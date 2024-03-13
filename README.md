@@ -1,0 +1,1 @@
+Hey everyone, this is my first HTML project and it is following the Odin Project curriculum. Thank you for checking it out.
